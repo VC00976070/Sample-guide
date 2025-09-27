@@ -10,9 +10,7 @@ Zoom is a video conferencing tool used for online meetings, webinars, and virtua
 document provides instructions for installing, setting up, and using the Zoom Desktop Client on supported
 operating systems.
 
-![This is a logo](this-is-an-image.png)
-
-<img src="this-is-an-image.png" alt="This is a logo" width="300" height="300">
+<img width="1024" height="1024" alt="image-1" src="https://github.com/user-attachments/assets/9f7875fb-65e9-4fec-bfec-1694162c067e" />
 
 <div style="page-break-after: always;"></div>
 
