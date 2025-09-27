@@ -21,7 +21,6 @@ Technical writing
 
 * You have access to a reliable internet connection
 * You have administrator rights on your device
-* Your operating system is compatible (see next section)
   
 <div style="page-break-after: always;"></div>
 
